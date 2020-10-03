@@ -1,10 +1,4 @@
-/*
- DELETE FROM T_SLV_AUTOR CASCADE CONSTRAINT;
- DELETE FROM T_SLV_CATEGORIA CASCADE CONSTRAINT;
- DELETE FROM T_SLV_LIVRO CASCADE CONSTRAINT;
- DELETE FROM T_SLV_AUTOR_LIVRO CASCADE CONSTRAINT;
-*/
-
+--RESUMO--
 departamento mínimo 7
 funcionario 35
 dependente 9 
@@ -19,12 +13,11 @@ execucao dos projetos :
     projeto
         3 funcionário
         
-25 estados
-    10 cidades
-        3 bairros
-            5 endereços
-            
-            
+26 estados
+   10 cidades
+       3 bairros
+           5 endereços
+                        
 tipo endereços
     residencial 
     comercial
@@ -34,35 +27,58 @@ funcionário 35
     endereço 2
 total endereço: 70 endereços
 
+--PARTE 1 DA TAREFA--
+
+28  CELSO - PROJETOS SEM DATA + ESTADOS
+35  EDUARDO - FUNCIONÁRIO
+35  GUILHERME - TELEFONE
+35  WILLIAM - TELEFONE2
+12  ROGÉRIO - PROJETO COM DATA + DEPARTAMENTO + TIPO ENDEREÇOS 
+18  HENRIQUE - FUNCIONÁRIOS POR PROJETO + DEPENDENTES
+
+--PARTE 2 DA TAREFA
+
+43 cidades pra cada pessoa
+	Celso 1 a 43
+   William 44 a 87
+   Eduardo 88 a 130
+   Guilherme 131 a 173
+   Rogério 174 a 216
+   Henrique 217 a 260
+130 bairros pra cada pessoa
+  Celso 1 a 130
+  William 131 a 262
+  Eduardo 263 a 394
+  Guilherme 395 a 526
+  Rogério 527 a 658
+  Henrique 659 a 786
+650 endereços para cada pessoa
+  Celso 1 a 70
+  William 71 a 141
+  Eduardo 142 a 212
+  Guilherme 213 a 283
+  Rogério 284 a 354
+  Henrique 355 a 420
+70 funcionário-endereço
+  Celso 1 a 70
+  William 71 a 141
+  Eduardo 142 a 212
+  Guilherme 213 a 283
+  Rogério 284 a 354
+  Henrique 355 a 420
+
+--EXEMPLOS DE INSERT--
+
+DELETE FROM T_SLV_AUTOR CASCADE CONSTRAINT;
+DELETE FROM T_SLV_CATEGORIA CASCADE CONSTRAINT;
+DELETE FROM T_SLV_LIVRO CASCADE CONSTRAINT;
+DELETE FROM T_SLV_AUTOR_LIVRO CASCADE CONSTRAINT;
 
 
-CREATE SEQUENCE Schema.SequenceName
+CREATE SEQUENCE SequenceName
 As int
 start with 1
 Increment by 1 ;
-
---insert de departamento 7
-
---insert de 5 funcionarios para cada departamento 7 <> 35
-
---insert de 3 funcio com 3 dependente <> 9
-
---insert de 2 telefone para cada funcionario <> 70
-
---projeto com data 2
-
--- projeto sem data 3
-
--- 3 projetos com 3 funcionarios
-
--- 25 estados, 10 cidaddes, 3 bairros, 5 endereços <> 3750
-
--- tipo endereços: 3, residencial  comercial veraneio
-
--- 2 endereços para cada funcionário <> 70 
-
-
-
 
 INSERT INTO T_SAK_DEPTO (cd_depto,nm_depto,sg_depto) VALUES (1234,'TECNOLOGIA DA INFORMAÇÃO CORPORATIVA','TIC');
 
@@ -108,12 +124,6 @@ INSERT INTO T_SAK_TELEFONE (CD_FUNC,CD_TELEFONE,NR_DDD,NR_TELEFONE) VALUES (1002
 DELETE FROM T_SAK_TELEFONE WHERE CD_FUNC = 1002 AND CD_TELEFONE = 1;
 -- commit
 COMMIT;
-
-
-    
-
-
-    
 
 
 
