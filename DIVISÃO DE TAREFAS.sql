@@ -40,12 +40,8 @@ total endereço: 70 endereços
 
 43 cidades pra cada pessoa
 --10 cidades para cada estado
-	Celso 1 a 43
-   William 44 a 87
-   Eduardo 88 a 130
-   Guilherme 131 a 173
-   Rogério 174 a 216
-   Henrique 217 a 260
+  --William 10 cidades para cada um dos primeiros 13 estados
+  Guilherme 10 cidades para cada um dos últimos 13 estados
 130 bairros pra cada pessoa
 --3 bairros para cada cidade
   Celso 1 a 130
