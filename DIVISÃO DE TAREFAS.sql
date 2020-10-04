@@ -31,14 +31,15 @@ total endereço: 70 endereços
 
 28  CELSO - PROJETOS SEM DATA + ESTADOS
 35  EDUARDO - FUNCIONÁRIO
-35  GUILHERME - TELEFONE
-35  WILLIAM - TELEFONE2
+--35  GUILHERME - TELEFONE
+--35  WILLIAM - TELEFONE2
 12  ROGÉRIO - PROJETO COM DATA + DEPARTAMENTO + TIPO ENDEREÇOS 
 18  HENRIQUE - FUNCIONÁRIOS POR PROJETO + DEPENDENTES
 
 --PARTE 2 DA TAREFA
 
 43 cidades pra cada pessoa
+--10 cidades para cada estado
 	Celso 1 a 43
    William 44 a 87
    Eduardo 88 a 130
@@ -46,6 +47,7 @@ total endereço: 70 endereços
    Rogério 174 a 216
    Henrique 217 a 260
 130 bairros pra cada pessoa
+--3 bairros para cada cidade
   Celso 1 a 130
   William 131 a 262
   Eduardo 263 a 394
@@ -53,6 +55,7 @@ total endereço: 70 endereços
   Rogério 527 a 658
   Henrique 659 a 786
 650 endereços para cada pessoa
+--5 endereços para cada bairro
   Celso 1 a 650
   William 651 a 1301
   Eduardo 1302 a 1952
@@ -60,6 +63,7 @@ total endereço: 70 endereços
   Rogério 2604 a 3254
   Henrique  3255 a 3900
 70 funcionário-endereço
+--Cada funcionário deve ter 2 endereços
   Celso 1 a 70
   William 71 a 141
   Eduardo 142 a 212
