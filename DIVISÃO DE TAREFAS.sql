@@ -47,7 +47,7 @@ total endereço: 70 endereços
 --130 bairros pra cada pessoa
 --3 bairros para cada cidade
   Celso, criar 3 bairros para cada cidade de id 1 a 42 (inclusive)
-  William, criar 3 bairros para cada cidade de id 43 a 86 (inclusive)
+  --William, criar 3 bairros para cada cidade de id 43 a 86 (inclusive)
   Eduardo, criar 3 bairros para cada cidade de id 87 a 130 (inclusive)
   Guilherme, criar 3 bairros para cada cidade de id 131 a 174 (inclusive)
   Rogério, criar 3 bairros para cada cidade de id 175 a 218 (inclusive)
