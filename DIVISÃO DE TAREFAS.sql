@@ -38,34 +38,37 @@ total endereço: 70 endereços
 
 --PARTE 2 DA TAREFA
 
-43 cidades pra cada pessoa
+260 cidades no total
+--130 cidades para William e 130 para Guilherme
 --10 cidades para cada estado
   --William 10 cidades para cada um dos primeiros 13 estados
   Guilherme 10 cidades para cada um dos últimos 13 estados
-130 bairros pra cada pessoa
+780 bairro no total
+--130 bairros pra cada pessoa
 --3 bairros para cada cidade
-  Celso 1 a 130
-  William 131 a 262
-  Eduardo 263 a 394
-  Guilherme 395 a 526
-  Rogério 527 a 658
-  Henrique 659 a 786
-650 endereços para cada pessoa
+  Celso, criar 3 bairros para cada cidade de id 1 a 42 (inclusive)
+  William, criar 3 bairros para cada cidade de id 43 a 86 (inclusive)
+  Eduardo, criar 3 bairros para cada cidade de id 87 a 130 (inclusive)
+  Guilherme, criar 3 bairros para cada cidade de id 131 a 174 (inclusive)
+  Rogério, criar 3 bairros para cada cidade de id 175 a 218 (inclusive)
+  Henrique, criar 3 bairros para cada cidade de id 219 a 260 (inclusive)
+3900 endereços no total
+--650 endereços para cada pessoa
 --5 endereços para cada bairro
-  Celso 1 a 650
-  William 651 a 1301
-  Eduardo 1302 a 1952
-  Guilherme 1953 a 2603
-  Rogério 2604 a 3254
-  Henrique  3255 a 3900
+  Celso, criar 5 endereços para cada bairro de id 1 a 130 (inclusive)
+  William, criar 5 endereços para cada bairro de id 131 a 261 (inclusive)
+  Eduardo, criar 5 endereços para cada bairro de id 262 a 392 (inclusive)
+  Guilherme, criar 5 endereços para cada bairro de id 393 a 523 (inclusive)
+  Rogério, criar 5 endereços para cada bairro de id 524 a 654 (inclusive)
+  Henrique, criar 5 endereços para cada bairro de id 655 a 780 (inclusive)
 70 funcionário-endereço
 --Cada funcionário deve ter 2 endereços
-  Celso 1 a 70
-  William 71 a 141
-  Eduardo 142 a 212
-  Guilherme 213 a 283
-  Rogério 284 a 354
-  Henrique 355 a 420
+  Celso, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 1 a 5 (inclusive)
+  William, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 6 a 12 (inclusive)
+  Eduardo, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 13 a 18 (inclusive)
+  Guilherme, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 19 a 25 (inclusive)
+  Rogério, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 26 a 31 (inclusive)
+  Henrique, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 32 a 35 (inclusive)
 
 --EXEMPLOS DE INSERT--
 
