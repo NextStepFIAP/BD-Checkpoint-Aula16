@@ -75,18 +75,6 @@ INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.next
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Quixadá');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Crato');
 
---Ceará
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Fortaleza');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Caucaia');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Juazeiro do Norte');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Maracanaú');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Sobral');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Itapipoca');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Maranguape');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Iguatu');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Quixadá');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,6,'Crato');
-
 --Espírito Santo
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,7,'Vitória');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (seq_cidade.nextval,7,'Vila Velha');
