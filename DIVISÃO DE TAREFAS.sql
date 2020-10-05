@@ -29,7 +29,7 @@ total endereço: 70 endereços
 
 --PARTE 1 DA TAREFA--
 
-28  CELSO - PROJETOS SEM DATA + ESTADOS
+--28  CELSO - PROJETOS SEM DATA + ESTADOS
 35  EDUARDO - FUNCIONÁRIO
 --35  GUILHERME - TELEFONE
 --35  WILLIAM - TELEFONE2
@@ -38,18 +38,18 @@ total endereço: 70 endereços
 
 --PARTE 2 DA TAREFA
 
-260 cidades no total
+--260 cidades no total
 --130 cidades para William e 130 para Guilherme
 --10 cidades para cada estado
   --William 10 cidades para cada um dos primeiros 13 estados
-  Guilherme 10 cidades para cada um dos últimos 13 estados
+  --Guilherme 10 cidades para cada um dos últimos 13 estados
 780 bairro no total
 --130 bairros pra cada pessoa
 --3 bairros para cada cidade
-  Celso, criar 3 bairros para cada cidade de id 1 a 42 (inclusive)
-  --William, criar 3 bairros para cada cidade de id 43 a 86 (inclusive)
-  Eduardo, criar 3 bairros para cada cidade de id 87 a 130 (inclusive)
-  Guilherme, criar 3 bairros para cada cidade de id 131 a 174 (inclusive)
+  --Celso, criar 3 bairros (id 1 a 129) para cada cidade de id 1 a 42 (inclusive)
+  --William, criar 3 bairros (id 130 a 261 inclusive) para cada cidade de id 43 a 86 (inclusive)
+  Eduardo, criar 3 bairros (id 260 a 389) para cada cidade de id 87 a 130 (inclusive)
+  --Guilherme, criar 3 bairros (id 390 a 519) para cada cidade de id 131 a 174 (inclusive)
   Rogério, criar 3 bairros para cada cidade de id 175 a 218 (inclusive)
   Henrique, criar 3 bairros para cada cidade de id 219 a 260 (inclusive)
 3900 endereços no total
