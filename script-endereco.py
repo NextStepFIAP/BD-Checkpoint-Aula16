@@ -11,8 +11,8 @@ open('querySql-endereco.txt', 'w').close()
 arquivo = open('querySql-endereco.txt', 'w')
 
 for cd_bairro in range(cd_bairro,cd_bairro_limite+1):
-    #CASO QUEIRA, COMENTE ESSA LINHA ABAIXO
-    arquivo.write("Bairro {}: \n".format(cd_bairro))
+    #CASO QUEIRA, DESCOMENTE A LINHA ABAIXO, MAS O PADRÃO É SEM ESSE COMENTÁRIO
+    #arquivo.write("#Bairro {}: \n".format(cd_bairro))
     for i in range(enderecos_por_bairro):
         #Escreve informação nova
         arquivo.write(
