@@ -15,7 +15,7 @@ for cd_bairro in range(cd_bairro,cd_bairro_limite+1):
     for i in range(enderecos_por_bairro):
         #Escreve informação nova
         arquivo.write(
-            f"INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (,{cd_bairro},'RUA '); " + "\n")
+            f"INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,{cd_bairro},'RUA '); " + "\n")
     cd_bairro += 1
 
 #LEMBRE-SE: ainda será necessário colocar manualmente os valores dos varchars
