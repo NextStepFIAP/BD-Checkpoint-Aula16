@@ -12,7 +12,7 @@ while j != encerra:
     #i = numero do bairro
     for x in range(3):
         nomebairro = input("Adicione o bairro {} para a cidade {} \n".format(x+1,cidades[j-1]))
-        sentenca = """"INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES ({},{},'{}');""".format(i, j,nomebairro)
+        sentenca = """INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES ({},{},'{}');""".format(i, j,nomebairro)
         inclusao.append(sentenca)
         i += 1
         Bairros[i-1]=nomebairro
