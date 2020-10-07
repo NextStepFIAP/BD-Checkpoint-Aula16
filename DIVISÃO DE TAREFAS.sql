@@ -30,10 +30,10 @@ total endereço: 70 endereços
 --PARTE 1 DA TAREFA--
 
 --28  CELSO - PROJETOS SEM DATA + ESTADOS
-35  EDUARDO - FUNCIONÁRIO
+35  ROGÉRIO - FUNCIONÁRIO
 --35  GUILHERME - TELEFONE
 --35  WILLIAM - TELEFONE2
-12  ROGÉRIO - PROJETO COM DATA + DEPARTAMENTO + TIPO ENDEREÇOS 
+--12  EDUARDO - PROJETO COM DATA + DEPARTAMENTO + TIPO ENDEREÇOS 
 18  HENRIQUE - FUNCIONÁRIOS POR PROJETO + DEPENDENTES
 
 --PARTE 2 DA TAREFA
@@ -46,17 +46,17 @@ total endereço: 70 endereços
 780 bairro no total
 --130 bairros pra cada pessoa
 --3 bairros para cada cidade
-  *Fazer bairros reais - Celso, criar 3 bairros (id 1 a 126) para cada cidade de id 1 a 42 (inclusive)
+  --Celso, criar 3 bairros (id 1 a 126) para cada cidade de id 1 a 42 (inclusive)
   --William, criar 3 bairros (id 127 a 258 inclusive) para cada cidade de id 43 a 86 (inclusive)
-  Eduardo, criar 3 bairros (id 259 a 390) para cada cidade de id 87 a 130 (inclusive)
+  --Eduardo, criar 3 bairros (id 259 a 390) para cada cidade de id 87 a 130 (inclusive)
   --Guilherme, criar 3 bairros (id 391 a 522) para cada cidade de id 131 a 174 (inclusive)
-  Rogério, criar 3 bairros (id 523 a 654) para cada cidade de id 175 a 218 (inclusive)
+  --Rogério, criar 3 bairros (id 523 a 654) para cada cidade de id 175 a 218 (inclusive)
   Henrique, criar 3 bairros (id 655 a 780) para cada cidade de id 219 a 260 (inclusive)
 3900 endereços no total
 --650 endereços para cada pessoa
 --5 endereços para cada bairro
   Celso, criar 5 endereços (id 1 a 650) para cada bairro de id 1 a 130 (inclusive)
-  William, criar 5 endereços (id 651 a 1300) para cada bairro de id 131 a 260 (inclusive)
+  --William, criar 5 endereços (id 651 a 1300) para cada bairro de id 131 a 260 (inclusive)
   Eduardo, criar 5 endereço (id 1301 a 1950) para cada bairro de id 261 a 390 (inclusive)
   Guilherme, criar 5 endereços (id 1951 a 2600) para cada bairro de id 391 a 520 (inclusive)
   Rogério, criar 5 endereços (id 2601 a 3250) para cada bairro de id 521 a 650 (inclusive)
