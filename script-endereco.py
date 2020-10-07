@@ -1,8 +1,8 @@
 # coding=utf-8
 # Aqui você pode mexer, mas precisa analisar como está seu cenário na DIVISÃO DE TAREFAS.sql
-cd_end_correio = 651
-cd_bairro = 131
-cd_bairro_limite = 260
+cd_end_correio = 1301
+cd_bairro = 261
+cd_bairro_limite = 390
 
 # Não mexer nessa var, é o padrão necessário na DIVISÃO DE TAREFAS.sql
 enderecos_por_bairro = 5
