@@ -30,10 +30,10 @@ total endereço: 70 endereços
 --PARTE 1 DA TAREFA--
 
 --28  CELSO - PROJETOS SEM DATA + ESTADOS
-35  EDUARDO - FUNCIONÁRIO
+35  ROGÉRIO - FUNCIONÁRIO
 --35  GUILHERME - TELEFONE
 --35  WILLIAM - TELEFONE2
-12  ROGÉRIO - PROJETO COM DATA + DEPARTAMENTO + TIPO ENDEREÇOS 
+-- 12  EDUARDO - PROJETO COM DATA + DEPARTAMENTO + TIPO ENDEREÇOS 
 18  HENRIQUE - FUNCIONÁRIOS POR PROJETO + DEPENDENTES
 
 --PARTE 2 DA TAREFA
@@ -48,7 +48,7 @@ total endereço: 70 endereços
 --3 bairros para cada cidade
   *Fazer bairros reais - Celso, criar 3 bairros (id 1 a 126) para cada cidade de id 1 a 42 (inclusive)
   --William, criar 3 bairros (id 127 a 258 inclusive) para cada cidade de id 43 a 86 (inclusive)
-  Eduardo, criar 3 bairros (id 259 a 390) para cada cidade de id 87 a 130 (inclusive)
+  -- Eduardo, criar 3 bairros (id 259 a 390) para cada cidade de id 87 a 130 (inclusive)
   --Guilherme, criar 3 bairros (id 391 a 522) para cada cidade de id 131 a 174 (inclusive)
   Rogério, criar 3 bairros (id 523 a 654) para cada cidade de id 175 a 218 (inclusive)
   Henrique, criar 3 bairros (id 655 a 780) para cada cidade de id 219 a 260 (inclusive)

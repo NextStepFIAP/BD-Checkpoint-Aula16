@@ -111,7 +111,7 @@ INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (83,9,'São Jos�
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (84,9,'Timon');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (85,9,'Caxias');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (86,9,'Codó');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (87,9,'Cavalcante');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (87,9,'Açailândia');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (88,9,'Paço do Lumiar');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (89,9,'Pinheiro');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (90,9,'Chapadinha');
@@ -123,22 +123,22 @@ INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (93,10,'Rondonó
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (94,10,'Sinop');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (95,10,'Tangará da Serra');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (96,10,'Cáceres');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (97,10,'Cavalcante');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (97,10,'Barra do Garças');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (98,10,'Lucas do Rio Verde');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (99,10,'Juína');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (100,10,'Colniza');
 
 --Mato Grosso do Sul
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (101,11,'Campo Grande');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (102,11,'Várzea Grande');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (103,11,'Rondonópolis');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (104,11,'Sinop');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (105,11,'Tangará da Serra');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (106,11,'Cáceres');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (107,11,'Cavalcante');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (108,11,'Lucas do Rio Verde');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (109,11,'Juína');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (110,11,'Colniza');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (102,11,'Dourados');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (103,11,'Três Lagoas');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (104,11,'Corumbá');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (105,11,'Ponta Porã');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (106,11,'Sidrolândia');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (107,11,'Naviraí');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (108,11,'Nova Andradina');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (109,11,'Aquidauana');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (110,11,'Maracaju');
 
 --Minas Gerais
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (111,12,'Belo Horizonte');

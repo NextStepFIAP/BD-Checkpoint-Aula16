@@ -1,8 +1,8 @@
 # coding=utf-8
 # Aqui você pode mexer, mas precisa analisar como está seu cenário na DIVISÃO DE TAREFAS.sql
-cd_end_correio = 651
-cd_bairro = 131
-cd_bairro_limite = 260
+cd_end_correio = 1301
+cd_bairro = 261
+cd_bairro_limite = 390
 
 # Não mexer nessa var, é o padrão necessário na DIVISÃO DE TAREFAS.sql
 enderecos_por_bairro = 5
@@ -17,7 +17,7 @@ for cd_bairro in range(cd_bairro,cd_bairro_limite+1):
     for i in range(enderecos_por_bairro):
         #Escreve informação nova
         arquivo.write(
-            "INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES ({},{},'RUA ');\n".format(cd_end_correio,cd_bairro))
+            "INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES ({},{},,'RUA ');\n".format(cd_end_correio,cd_bairro))
         cd_end_correio += 1
     cd_bairro += 1
 
