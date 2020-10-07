@@ -190,27 +190,27 @@ INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (150,15,'Palmas'
 
 --Pernambuco
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (151,16,'Recife');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (152,16,'Casinhas');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (153,16,'Frei Miguelinho');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (154,16,'Agerstina');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (155,16,'Lagoa dos Gatos');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (156,16,'Panelas');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (157,16,'Sairé');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (158,16,'São Joaquim do Monte');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (159,16,'Calçado');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (160,16,'Canhotinho');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (152,16,'Olinda');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (153,16,'Caruaru');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (154,16,'Petrolina');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (155,16,'Paulista');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (156,16,'Cabo de Santo Agostinho');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (157,16,'Camaragibe');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (158,16,'Garanhuns');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (159,16,'Vitória de Santo Antão');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (160,16,'Jaboatão dos Guararapes');
 
 --Piauí
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (161,17,'Teresina');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (162,17,'Domingos Mourão');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (163,17,'Barro Duro');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (164,17,'Hugo Napoleão');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (165,17,'Jardim do Mulato');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (166,17,'Beneditinos');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (167,17,'Altos');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (168,17,'José de Freitas');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (169,17,'Aroazes');
-INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (170,17,'Brasileira');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (162,17,'Esperantina');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (163,17,'Altos');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (164,17,'União');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (165,17,'Campo maior');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (166,17,'Barras');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (167,17,'Floriano');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (168,17,'Piripiri');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (169,17,'Picos');
+INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (170,17,'Parnaíba');
 
 --Rio de Janeiro
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (171,18,'Rio de Janeiro');
