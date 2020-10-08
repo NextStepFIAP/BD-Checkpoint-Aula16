@@ -57,7 +57,7 @@ total endereço: 70 endereços
 --5 endereços para cada bairro
   Celso, criar 5 endereços (id 1 a 650) para cada bairro de id 1 a 130 (inclusive)
   --William, criar 5 endereços (id 651 a 1300) para cada bairro de id 131 a 260 (inclusive)
-  Eduardo, criar 5 endereço (id 1301 a 1950) para cada bairro de id 261 a 390 (inclusive)
+  -- Eduardo, criar 5 endereço (id 1301 a 1950) para cada bairro de id 261 a 390 (inclusive)
   Guilherme, criar 5 endereços (id 1951 a 2600) para cada bairro de id 391 a 520 (inclusive)
   Rogério, criar 5 endereços (id 2601 a 3250) para cada bairro de id 521 a 650 (inclusive)
   Henrique, criar 5 endereços (id 3251 a 3900) para cada bairro de id 651 a 780 (inclusive)
