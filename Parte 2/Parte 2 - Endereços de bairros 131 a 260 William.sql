@@ -526,7 +526,7 @@ INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUE
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (1176,236,75385304,'Avenida Domingos Pereira Lima');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (1177,236,75385292,'Rua Contorno');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (1178,236,75385295,'Rua Dom Pedro II');
-INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (1179,236,75385307,'Rua Raimundo F. Aquino');
+INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (1179,236,75385307,'Rua Contorno');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (1180,236,75385289,'Rua Ocílio Alves Pinto');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (1181,237,75380376,'Avenida Anápolis');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (1182,237,75380292,'Avenida Aparecida');
