@@ -180,7 +180,7 @@ INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUE
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2130,426,83701190,'RUA AMAPÁ');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2131,427,83206287,'RUA AGOSTINHO PEREIRA ALVES');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2132,427,83206262,'ACESSO ANA BATISTA ARAUJO');
-INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2133,427,83206286,'ARUA JOAQUIM TIGRE);
+INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2133,427,83206286,'ARUA JOAQUIM TIGRE');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2134,427,83206265,'RUA CESALPINO PASSOS');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2135,427,83206280,'RUA CONSELHEIRO CORRÊA');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2136,428,83206310,'RUA AMIM MUSSI');
@@ -376,7 +376,7 @@ INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUE
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2326,466,54525260,'RUA ALTO DO CRUZEIRO');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2327,466,54580635,'RUA CRUZEIRO');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2328,466,54525390,'RUA DEZESSEIS');
-INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2329,466,54525522,'TRAVESSA DEZESSEIS);
+INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2329,466,54525522,'TRAVESSA DEZESSEIS');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2330,466,54525530,'RUA DEZESSETE');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2331,467,54505060,'RUA ALTO SÃO SEBASTIÃO');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2332,467,54510450,'RUA AMARO PEREIRA CAVALCANTE');
@@ -566,7 +566,7 @@ INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUE
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2516,504,64260000,'ENTRADA CALDEIRÃO');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2517,504,64260000,'ESTRADA CALDEIRÃO');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2518,504,64260000,'POVOAÇÃO CALDEIRÃO');
-INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2519,504,64260000,'ESTRADA POVOADO BANDA);
+INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2519,504,64260000,'ESTRADA POVOADO BANDA');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2520,504,64260000,'COLONIA POVOADO CALDEIRÃO');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2521,505,64602001,'LOTEAMENTO ALTAMIRA');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (2522,505,64602000,'LOTEAMENTO BR-316');
