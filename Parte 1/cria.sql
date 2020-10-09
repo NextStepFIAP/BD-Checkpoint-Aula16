@@ -53,6 +53,8 @@ pk_slv_autor_livro PRIMARY KEY(nr_isbn,cd_autor);
 ALTER TABLE T_SLV_AUTOR_LIVRO ADD CONSTRAINT
 ck_slv_autor_livro_status CHECK (st_autor_principal in (1,2));
 
+
+
 ALTER TABLE T_SLV_LIVRO ADD CONSTRAINT 
 fk_slv_livro_categoria FOREIGN KEY(cd_categoria)
 REFERENCES T_SLV_CATEGORIA (cd_categoria);
@@ -64,8 +66,6 @@ REFERENCES T_SLV_AUTOR (cd_autor);
 ALTER TABLE T_SLV_AUTOR_LIVRO ADD CONSTRAINT 
 fk_slv_autor_livro_livro FOREIGN KEY(nr_isbn)
 REFERENCES T_SLV_LIVRO (nr_isbn);
-
-
 
 
 
