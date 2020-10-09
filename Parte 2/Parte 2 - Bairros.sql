@@ -96,7 +96,7 @@ INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.next
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,32,'Chagas Aguiar');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,33,'Centro');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,33,'Barra Limpa');
-INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval_bairro.nextval,33,'B da Fonte');
+INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,33,'B da Fonte');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,34,'Centro');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,34,'Ramalho r.');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,34,'Santa Luzia');
@@ -369,7 +369,7 @@ INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.next
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,123,'Prainha');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,124,'Nova Marabá');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,124,'Cidade Nova');
-INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,124,'Velha Marabá');3
+INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,124,'Velha Marabá');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,125,'Rio Verde');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,125,'União');
 INSERT INTO T_SAK_BAIRRO (cd_bairro,cd_cidade,nm_bairro) VALUES (seq_bairro.nextval,125,'Primavera');
