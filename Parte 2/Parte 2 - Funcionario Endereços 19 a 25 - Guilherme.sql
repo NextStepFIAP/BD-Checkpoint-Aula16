@@ -1,0 +1,14 @@
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (19, 38, 2526, 1, 'CASA', 3);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (19, 39, 2527, 1, 'CASA', 48);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (20, 40, 2599, 1, 'CASA', 1);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (20, 41, 2600, 1, 'CASA', 2);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (21, 42, 2561, 1, 'APTO', 42);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (21, 43, 2562, 1, 'APTO', 32);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (22, 44, 2569, 1, 'CASA', 2);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (22, 45, 2570, 1, 'APTO', 21);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (23, 46, 2588, 1, 'CASA', 3);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (23, 47, 2589, 1, 'CASA', 5);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (24, 48, 2584, 1, 'APTO', 91);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (24, 49, 2585, 1, 'CASA', 2);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (25, 50, 2598, 1, 'APTO', 81);
+INSERT INTO T_SAK_FUNCIONARIO (cd_func,cd_end_func,cd_end_correio,cd_tipo_endereco,ds_complemento,nr_logradouro) VALUES (25, 51, 2599, 1, 'APTO', 82);
