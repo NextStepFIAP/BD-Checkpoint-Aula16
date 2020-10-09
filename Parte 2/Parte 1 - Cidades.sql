@@ -1,13 +1,3 @@
-CREATE SEQUENCE seq_cidade
-As int
-start with 1
-Increment by 1 ;
-
-CREATE SEQUENCE seq_estado
-As int
-start with 1
-Increment by 1 ;
-
 --Acre
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (1,1,'Rio Branco');
 INSERT INTO T_SAK_CIDADE (cd_cidade,cd_estado,nm_cidade) VALUES (2,1,'Acrelândia');
