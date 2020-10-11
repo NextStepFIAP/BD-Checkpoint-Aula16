@@ -63,7 +63,7 @@ total endereço: 70 endereços
   Henrique, criar 5 endereços (id 3251 a 3900) para cada bairro de id 651 a 780 (inclusive)
 70 funcionário-endereço
 --Cada funcionário deve ter 2 endereços
-  Celso, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 1 a 5 (inclusive)
+  --Celso, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 1 a 5 (inclusive)
   --William, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 6 a 12 (inclusive)
   Eduardo, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 13 a 18 (inclusive)
   --Guilherme, criar 2 entradas na tabela T_SAK_FUNCIONARIO_ENDERECO, associando 2 endereços para cada um dos funcionários de id 19 a 25 (inclusive)
