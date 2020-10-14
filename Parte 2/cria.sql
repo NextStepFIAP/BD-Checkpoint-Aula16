@@ -25,3 +25,7 @@ increment by 1;
 CREATE SEQUENCE seq_endereco
 start with 1
 increment by 1;
+
+CREATE SEQUENCE seq_end_func
+start with 1
+increment by 1;

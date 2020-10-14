@@ -2608,8 +2608,8 @@ INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUE
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,522,26030550,'Rua Adolfo Miranda ');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,522,26030310,'Rua Albina ');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,522,26030000,'Rua Angelina ');
-INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,523,24240180,'Largo do Marrão ');
-INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,523,24241410,'Morro Africano ');
+INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,523,24220420,'Rua Santa Rosa');
+INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,523,24241410,'Rua Lopes Trovão');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,523,24240355,'Morro Nossa Senhora Aparecida ');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,523,24240010,'Rua Abel ');
 INSERT INTO T_SAK_ENDERECO (cd_end_correio,cd_bairro,nr_cep,ds_logradouro) VALUES (seq_endereco.nextval,523,24240520,'Rua Abigail Rebelo ');
