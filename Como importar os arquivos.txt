@@ -1,0 +1,11 @@
+1)Troque o caminho dos arquivos
+2)Caso seu caminho tenha espaços no meio, utilize ' '(como já está), caso contrário as aspas são opcionais
+3)Este comando só funciona no SQL Developer (não funciona no DBeaver)
+
+@'/home/william/Github/BD-Checkpoint-Aula16/Parte 2/Apaga_v3_Salvio.sql'
+@'/home/william/Github/BD-Checkpoint-Aula16/Parte 2/Cria_v3_Salvio.sql'
+@'/home/william/Github/BD-Checkpoint-Aula16/Parte 2/cria.sql'
+@'/home/william/Github/BD-Checkpoint-Aula16/Parte 2/carrega.sql'
+
+@'/home/william/Github/BD-Checkpoint-Aula16/Parte 1/apaga.sql'
+@'/home/william/Github/BD-Checkpoint-Aula16/Parte 1/cria.sql'
